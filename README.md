@@ -317,10 +317,94 @@ Especialização completa em execução de workloads Microsoft na AWS:
 
 ## 💼 Aplicação Prática
 
-### Projetos Relacionados
+### Projetos Cloud & DevOps
 
-- 🚀 **[InfraOps-AWX](https://github.com/bruno0nline/InfraOps-AWX)** - Automação de infraestrutura com AWX
-- 📊 **[OCI FinOps Analyzer](https://github.com/bruno0nline/OCI_FinOps_Analyzer)** - Otimização de custos OCI
+#### 🚀 Automação e Infraestrutura
+
+- **[InfraOps-AWX](https://github.com/bruno0nline/InfraOps-AWX)**
+  - Automação de infraestrutura com AWX/Ansible
+  - Integração com Active Directory
+  - Gerenciamento centralizado de ambientes Linux
+
+- **[GitHubActions-AWS](https://github.com/bruno0nline/GitHubActions-AWS)**
+  - Deploy automatizado usando GitHub Actions
+  - CI/CD para AWS
+  - Infraestrutura como código
+
+- **[CDK_Python_Project](https://github.com/bruno0nline/CDK_Python_Project)**
+  - AWS Cloud Development Kit (CDK) com Python
+  - Infraestrutura programática
+  - Best practices de IaC
+
+#### 💰 FinOps & Otimização
+
+- **[OCI_FinOps_Analyzer](https://github.com/bruno0nline/OCI_FinOps_Analyzer)**
+  - Análise de custos e otimização OCI
+  - Recomendações automáticas de rightsizing
+  - Relatórios executivos com economia em BRL
+
+- **[finops-oci-scripts](https://github.com/bruno0nline/finops-oci-scripts)**
+  - Scripts de otimização de custos OCI
+  - Análise de utilização de recursos
+
+- **[OCI-Relatorio-Backups](https://github.com/bruno0nline/OCI-Relatorio-Backups)**
+  - Relatórios automatizados de backups OCI
+  - Monitoramento de compliance
+
+#### 🔒 Segurança Cloud
+
+- **[prowler](https://github.com/bruno0nline/prowler)**
+  - Security assessment para AWS, Azure, GCP
+  - Compliance (CIS, NIST, PCI-DSS, GDPR)
+  - Auditorias automatizadas
+
+- **[cloudsplaining](https://github.com/bruno0nline/cloudsplaining)**
+  - Análise de segurança IAM AWS
+  - Identificação de violações de least privilege
+  - Relatórios de risco priorizados
+
+- **[cloudmapper](https://github.com/bruno0nline/cloudmapper)**
+  - Visualização e análise de ambientes AWS
+  - Mapeamento de recursos e dependências
+
+- **[metabadger](https://github.com/bruno0nline/metabadger)**
+  - Prevenção de ataques SSRF em EC2
+  - Upgrade automático para IMDSv2
+
+- **[parliament](https://github.com/bruno0nline/parliament)**
+  - Linting de políticas IAM AWS
+  - Validação de permissões
+
+- **[Salesforce_Policy_Sentry](https://github.com/bruno0nline/Salesforce_Policy_Sentry)**
+  - Gerador de políticas IAM Least Privilege
+  - Automação de segurança
+
+#### ⚡ Serverless & Containers
+
+- **[lambda-url-shortener](https://github.com/bruno0nline/lambda-url-shortener)**
+  - Encurtador de URLs serverless
+  - AWS Lambda + API Gateway + DynamoDB
+  - Arquitetura event-driven
+
+- **[ecs-fargate-node-hello-world](https://github.com/bruno0nline/ecs-fargate-node-hello-world)**
+  - Aplicação Node.js em ECS Fargate
+  - Containers serverless
+
+#### 🔧 DevOps & CI/CD
+
+- **[oci-arch-devops](https://github.com/bruno0nline/oci-arch-devops)**
+  - Arquiteturas DevOps na OCI
+  - Pipelines e automação
+
+#### 📚 Workshops & Learning
+
+- **[ec2-spot-workshops](https://github.com/bruno0nline/ec2-spot-workshops)**
+  - Best practices para EC2 Spot Instances
+  - Otimização de custos compute
+
+- **[service-control-policy-examples](https://github.com/bruno0nline/service-control-policy-examples)**
+  - Exemplos de Service Control Policies
+  - Governança multi-account AWS
 
 ---
 
